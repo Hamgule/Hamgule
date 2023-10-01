@@ -38,7 +38,7 @@
 
 <br>
 
-#### Most Used Languages
+### Most Used Languages
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungjoonH&layout=compact">
 
